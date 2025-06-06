@@ -1,4 +1,4 @@
-# KKR Technical assessment elevator
+# Technical assessment elevator
 
 Sample input:
 
